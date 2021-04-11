@@ -19,7 +19,7 @@
     <!--python-->
     <a href="https://www.python.org" target="_blank"> <img
             src="https://www.python.org/static/img/python-logo@2x.png" alt="python"
-            width="120" height="40"/> </a>
+            width="140" height="40"/> </a>
     <!--fastapi-->
     <a href="https://www.python.org" target="_blank"> <img
             src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi"
