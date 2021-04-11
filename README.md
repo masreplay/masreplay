@@ -16,8 +16,12 @@
     <a href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40"/> </a>
-    <!--Java-->
-    <a href="https://www.python.com" target="_blank"> <img
+    <!--python-->
+    <a href="https://www.python.org" target="_blank"> <img
             src="https://www.python.org/static/img/python-logo@2x.png" alt="python"
-            width="100" height="40"/> </a>
+            width="120" height="40"/> </a>
+    <!--fastapi-->
+    <a href="https://www.python.org" target="_blank"> <img
+            src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi"
+            width="120" height="40"/> </a>
 </p>
