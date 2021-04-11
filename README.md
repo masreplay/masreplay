@@ -18,6 +18,6 @@
             width="40" height="40"/> </a>
     <!--Java-->
     <a href="https://www.python.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyhon/pyhon-original.svg" alt="java"
+            src="https://www.python.org/static/img/python-logo@2x.png" alt="python"
             width="40" height="40"/> </a>
 </p>
