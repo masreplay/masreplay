@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as freelancer
+- 🔭 I’m currently working @ ALJAD
 - 📫 How to reach me: masmain5@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
