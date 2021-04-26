@@ -24,10 +24,9 @@
     <a href="https://www.python.org" target="_blank"> <img
             src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi"
             width="120" height="40"/> </a>
-    
     <!--flutter-->
-    <a href="https://www.python.org" target="_blank"> <img
+    <a href="https://flutter.dev/" target="_blank"> <img
             src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" alt="flutter"
-            width="120" height="40"/> </a>
-    
+            width="140" height="40"/> </a>
+   
 </p>
