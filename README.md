@@ -26,7 +26,7 @@
             width="120" height="40"/> </a>
     <!--flutter-->
     <a href="https://flutter.dev/" target="_blank"> <img
-            src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" alt="flutter"
+            src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="flutter"
             width="140" height="40"/> </a>
    
 </p>
