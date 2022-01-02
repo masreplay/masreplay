@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working <a href="https://github.com/ConstructorTeam">@ConstructorTeam</a>
-- 📫 How to reach me: masmain5@gmail.com
-- 
+- 📫 How to reach me: <a href="https://t.me/MAtheerS">@MAtheerS</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
