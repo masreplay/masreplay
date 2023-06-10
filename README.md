@@ -1,2 +1,2 @@
 Hello, My name is MAS.
-And i love dart
+And i love Rust :)
